@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "grammy": "^1.46.0",
+    "unpdf": "^1.8.1"
+  }
+}
