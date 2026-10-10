@@ -6,4 +6,8 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "bale_db"
-database_id = "PUT-YOUR-DATABASE-ID-HERE"
+database_id = ""d1_databases": [{
+    "binding": "DB",
+    "database_name": "aibotbale_db",
+    "database_id": "231e4a4c-b4ad-47f4-973e-73b7a8d2f525"
+ }]"
