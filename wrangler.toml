@@ -1,0 +1,9 @@
+name = "aibale"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+# دیتابیس D1 مخصوص نسخه‌ی بله (جدا از دیتابیس نسخه‌ی تلگرام)
+[[d1_databases]]
+binding = "DB"
+database_name = "bale_db"
+database_id = "PUT-YOUR-DATABASE-ID-HERE"
