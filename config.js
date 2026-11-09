@@ -16,10 +16,6 @@ const config = {
       "type": "openai_compatible",
       "chat_endpoint": "https://api.inceptionlabs.ai/v1/chat/completions"
     },
-        "apmix": {
-      "type": "openai_compatible",
-      "chat_endpoint": "https://api.apmix.ai/v1/chat/completions"
-    },
       "nararouter": {
       "type": "openai_compatible",
       "chat_endpoint": "https://router.bynara.id/v1/chat/completions"
@@ -38,7 +34,7 @@ const config = {
     
    { "name": "Mercury *mercury-3", "id": "mercury-3", "provider": "mercury", "capability": "chat", "rps": 1 },
    
-   { "name": "Apmix *claude-sonnet-4-6-free", "id": "claude-sonnet-4-6-free", "provider": "apmix", "capability": "chat", "rps":null }
+   
    
   ]
 };
