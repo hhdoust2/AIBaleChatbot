@@ -26,15 +26,13 @@ const config = {
   "models": [
     { "name": "Google *gemini-3.8-flash", "id": "gemini-3.8-flash", "provider": "google", "capability": "chat", "rps": 0.25 },
  
-    { "name": "Openr *gpt-5.4-mini", "id": "openai/gpt-5.4-mini", "provider": "openrouter", "capability": "chat", "rps": null },
+    { "name": "Openr *openrouter free", "id": "openrouter/free", "provider": "openrouter", "capability": "chat", "rps": null },
        
     { "name": "Groq *gpt-oss-120b", "id": "openai/gpt-oss-120b", "provider": "groq", "capability": "chat", "rps": 0.5 },
     
      { "name": "Nara *combo/nemo", "id": "combo/nemo", "provider": "nararouter", "capability": "chat", "rps": null },
     
-   { "name": "Mercury *mercury-3", "id": "mercury-3", "provider": "mercury", "capability": "chat", "rps": 1 },
-   
-   
+   { "name": "Mercury *mercury-3", "id": "mercury-3", "provider": "mercury", "capability": "chat", "rps": 1 }
    
   ]
 };
