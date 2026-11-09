@@ -2,6 +2,6 @@
   "type": "module",
   "dependencies": {
     "grammy": "^1.46.0",
-    "unpdf": "^1.8.1"
+    "unpdf": "^2.1.0"
   }
 }
